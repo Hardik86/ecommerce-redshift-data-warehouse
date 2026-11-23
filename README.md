@@ -1,6 +1,6 @@
 # E-Commerce Multi-Source Data Warehouse (Amazon Redshift)
 
-An end-to-end **ETL/ELT data warehousing pipeline** that unifies three heterogeneous operational databases—**PostgreSQL** (orders), **Apache Cassandra** (clickstream events), and **Neo4j** (product recommendation graphs)—into a centralized, Kimball-style **Star Schema** in **Amazon Redshift Serverless**.
+An end-to-end **ETL/ELT data warehousing pipeline** that unifies three heterogeneous operational databases; **PostgreSQL** (orders), **Apache Cassandra** (clickstream events), and **Neo4j** (product recommendation graphs); into a centralized, Kimball-style **Star Schema** in **Amazon Redshift Serverless**.
 
 ## Architecture Overview
 
