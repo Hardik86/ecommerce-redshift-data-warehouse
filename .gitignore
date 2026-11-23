@@ -1,0 +1,19 @@
+# Environment & Secrets
+.env
+*.pem
+*.key
+aws_credentials*
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python Cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS Files
+.DS_Store
+Thumbs.db
